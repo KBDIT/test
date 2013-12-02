@@ -28,7 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.label1 = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 53);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(233, 12);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "dfgd老地方国际快递了房间观看的房间看见123123123123123123";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Text = "Form1";
         }
